@@ -1,1 +1,1 @@
-# Pyth
+Print ("Hello World")
